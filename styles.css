@@ -1,0 +1,56 @@
+body{background-color: #d9dad7;
+    font-family:Garamond;}
+    
+    
+    div > img {display: block;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      gap: 16px;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto;
+      padding: 1px 10px 1px 10px;
+      width: 70%;
+      border-radius: 10px;
+    }
+    
+    div {background-color: white;
+    font-size: 16px}
+    
+    .header{display:center;
+    background-color: #702283;
+    color: #eec60a;
+    }
+    p {font-size: 18px}
+    
+    h1 {font-size:70px;
+    margin-bottom: 1px}
+    
+    
+    h2{font-size: 20px;
+    margin-top: 1px}
+    
+    .text-align {text-align:center}
+    
+    
+    .bold {font-weight: 900;}
+    
+    .achievements {text-align: center;}
+    
+    
+    .my-speech {font-style: italic;
+    font-size: 19px;
+    font-family: sans}
+    
+    div[id="tribute"] {
+    background-color:#702283;
+    color: #eec60a;
+    text-align: center;
+    }
+    div > p > a {color: orange}
+    
+    footer > div {background-color:#702283;
+    color: #eec60a;
+    text-align: center;}
